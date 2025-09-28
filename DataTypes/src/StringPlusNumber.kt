@@ -1,3 +1,3 @@
 fun main() {
-    println("Sally" + 5.9)
+    println("Sally" * 5.9)
 }
