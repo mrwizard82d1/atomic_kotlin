@@ -1,13 +1,13 @@
 fun main() {
     // Can't access private members declared in another file.
     // Class is private:
-    val rabbit = Animal("Rabbit")
+    // val rabbit = Animal("Rabbit")
 
     // Function is private:
-    recordAnimal(rabbit)
+    // recordAnimal(rabbit)
 
     // Property is private:
-    index++
+    // index++
 
     // Public!
     recordAnimals()

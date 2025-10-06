@@ -6,6 +6,7 @@ private fun recordAnimal(
     animal: Animal
 ) {
     println("Animal $index: ${animal.name}")
+    index++
 }
 
 fun recordAnimals() {
